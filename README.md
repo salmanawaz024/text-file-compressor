@@ -8,7 +8,7 @@
 - Made with JavaScript, HTML5 and CSS3.
 - Live Demo:👇
 
-- [x] [samirpaulb.github.io/txt-compressor](https://samirpaulb.github.io/txt-compressor/)
+- [x] [salmanawaz024.github.io/txt-compressor](https://github.com/salmanawaz024/text-file-compressor/
 
 - [x] [txt-compressor.vercel.app](https://txt-compressor.vercel.app/)
 
@@ -66,4 +66,5 @@ https://user-images.githubusercontent.com/77569653/172716965-50560f4a-2acf-4013-
 * About the tecnique of Lossless Data Compression with Huffman coding.
 
 <a href="#"> ![info1](images/readme-images/info.jpeg) </a>
+
 
